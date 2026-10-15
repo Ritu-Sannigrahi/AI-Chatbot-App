@@ -22,8 +22,7 @@ This app works like a personal assistant. Users can type any question or message
 ## 🛠️ Tools & Technologies Used
 
 * **Programming Language:** Kotlin
-* **User Interface:** Android XML Layouts, Material Design
-* **Database & Network:** OkHttp / Retrofit, Gson
+* **User Interface:** Android XML Layouts
 * **AI Service:** Groq API
 * **Development Platform:** Android Studio
 
